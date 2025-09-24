@@ -1,5 +1,6 @@
 import { Link } from '@tanstack/react-router';
 import { cn } from '@/lib/utils';
+import { Button } from '@/components/ui/button';
 import { CheckSquare, Plus, BarChart3, Filter } from 'lucide-react';
 
 interface HeaderProps {
