@@ -6,6 +6,7 @@ import {
   TrendingUp,
   Calendar
 } from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 interface TodoStatsProps {
   total: number;
